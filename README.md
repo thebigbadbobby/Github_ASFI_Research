@@ -8,6 +8,6 @@
 ### Next Steps
 ##### Fix rate limiting of GitHub API
 ##### Find studyable features of forked branches
-##### Locate additional data as necessary (Current Dataset is thin on fork-related insight)
+##### Locate additional data as necessary (Current dataset is thin on fork-related insight)
 ### Dataset
 ##### I loaded it onto the shared Google Drive
